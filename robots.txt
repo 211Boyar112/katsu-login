@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://katsubet-login.de/sitemap.xml
